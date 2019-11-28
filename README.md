@@ -1,2 +1,5 @@
 # bio-learning
-best wishes!
+
+
+
+mini python for myself use.
